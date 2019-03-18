@@ -1,3 +1,4 @@
+//test file
 public class Animal {
     private String name;
     private int weight;
